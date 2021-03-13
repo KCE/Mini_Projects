@@ -12,7 +12,7 @@ Please submit Project Team & the Project Title within 2078-01-05.
 
 # Project Titles
 
-- [ ] Student Mgmt. System, 
+- [x] Student Mgmt. System, 
 - [x] Employee Mgmt. System, 
 - [x] Library System, 
 - [x] eAttendance Mgmt. System, 
@@ -49,7 +49,7 @@ Please submit Project Team & the Project Title within 2078-01-05.
 - [x] Telephone Directory
 - [ ] eVoting
 - [ ] Puzzle
-- [ ] Data Encryption/Decryption
+- [x] Data Encryption/Decryption
 - [ ] Data Compression
 
 
