@@ -10,6 +10,49 @@ Please submit Project Team & the Project Title within 2078-01-05.
 - Submit links of relevent papers
 - Comment on that issue for interaction with team & department
 
+# Project Titles
+
+- [ ] Student Mgmt. System, 
+- [x] Employee Mgmt. System, 
+- [x] Library System, 
+- [x] eAttendance Mgmt. System, 
+- [ ] Pharmacy Mgmt. System, 
+- [x] Blood Bank Mgmt. System, 
+- [ ] Kitchen Recipie
+- [ ] Workers’ Time Logger
+- [x] Hospital Mgmt. System, 
+- [x] Hotel Reservation System, 
+- [ ] Inventory Mgmt. System, 
+- [x] Canteen Billing System, 
+- [ ] Task Reminder 
+- [ ] Number Plate Registration System, 
+- [ ] Tax Payment System, 
+- [x] eWallet, 
+- [x] Mini-Mart Billing System, 
+- [ ] Tourist Entry Logger, 
+- [ ] Feedback Mgmt. System, 
+- [ ] Project Info. System,
+- [x] Khwopa Quiz
+- [ ] Class Routine Mgmt. System
+- [x] Bank Mgmt. System
+- [ ] Student Payroll System
+- [ ] Break-Game
+- [x] Land Converter
+- [ ] Prescription Log
+- [x] Tic-tac-toe
+- [x] Bag Chal
+- [ ] Hostel Mgmt. System
+- [x] Date Converter
+- [x] Marksheet Generator
+- [x] Hangman
+- [x] Scientific Calculator
+- [x] Telephone Directory
+- [ ] eVoting
+- [ ] Puzzle
+- [ ] Data Encryption/Decryption
+- [ ] Data Compression
+
+
 # Project Ideas
 Please open (all) following links for project topic selection:
 - https://flipkarma.com/subject/major-project/
